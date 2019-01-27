@@ -1,6 +1,4 @@
-# lifeline_lab
 
-LifeLine Lab
 
 ## Getting Started
 
